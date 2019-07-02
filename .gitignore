@@ -1,0 +1,11 @@
+# ignore /deploy files
+deploy/
+
+# ignore tsunami
+tsunami.yml
+
+# ignore node modules
+node_modules/
+
+# ignore docker files
+.docker/
